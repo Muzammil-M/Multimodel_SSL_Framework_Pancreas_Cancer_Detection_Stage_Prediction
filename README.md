@@ -1,0 +1,2 @@
+# Multimodel_SSL_Framework_Pancreas_Cancer_Detection_Stage_Prediction
+Multi-Model Self-Supervised Learning Framework for Pancreatic Cancer Detection and Stage Prediction A complete end-to-end medical AI pipeline integrating SimCLR self-supervision, 3D UNet pancreas segmentation, vessel extraction, tumor–vessel proximity analysis, and ML-based cancer stage prediction. Built using CURVAS-PDAC CT dataset.
